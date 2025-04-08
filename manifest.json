@@ -1,0 +1,22 @@
+{
+    "name": "Detain Sheild",
+    "description": "Calculate number of classes needed for 75% attendance and number of holidays you can take. This web extension only works on MUJ SLCM",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "main.html"
+    },
+    "icons": {
+    "16": "icons/Logo16.png",
+    "48": "icons/Logo48.png",
+    "128": "icons/Logo128.png"
+  },
+    "content_scripts": [
+    {
+      "matches": ["https://mujslcm.jaipur.manipal.edu/Student/Academic/AttendanceSummaryForStudent"],
+      "js": ["detainshield.js"],
+      "run_at": "document_idle"
+    }
+  
+  ]
+  }
