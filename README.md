@@ -15,7 +15,10 @@ Detain Shield is a browser extension designed to help MUJ students stay on top o
 
 ## 📦 Installation
 
-Detain Shield will soon be available on the Chrome Web Store. Until then, follow these steps to install it manually:
+<a href="https://chromewebstore.google.com/detail/detain-sheild/mjedocjcijmphjgbfnkpceiblklpalpp" target="_blank">
+  <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Detain%20Shield-blue.svg?logo=google-chrome" alt="Download from Chrome Web Store" style="height: 50px;">
+</a>
+
 
 ### 🔧 Manual Installation
 
