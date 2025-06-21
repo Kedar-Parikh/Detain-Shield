@@ -1,7 +1,7 @@
 {
-    "name": "Detain Sheild",
+    "name": "Detain Shield",
     "description": "Calculate number of classes needed for 75% attendance and number of holidays you can take. This web extension only works on MUJ SLCM",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 3,
     "action": {
         "default_popup": "main.html"
