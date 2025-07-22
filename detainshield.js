@@ -5,7 +5,7 @@ setTimeout(() => {
         console.log('Table found:', table);
         const rows = table.rows;
         const classes_needed = ["Classes Required\n(for 75% attendance)"];
-        const absences_affordable = ["Absences Allowance"];
+        const absences_affordable = ["No. of classes \nyou can safely skip"];
         let tablearr = arraygen(table);
         for (let i = 1; i < rows.length; i++) {
             let present, absent, total, classesNeeded, absencesAffordable;
@@ -57,7 +57,7 @@ function arraygen(table) {
             const cells = rows[i].cells;
 
             for (let j = 0; j < cells.length; j++) {
-                rowData.push(cells[j].textContent.trim()); // Get text content and trim whitespace
+                rowData.push(cells[j].textContent.trim());
             }
 
             tableData.push(rowData);
