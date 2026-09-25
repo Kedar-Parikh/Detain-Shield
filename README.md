@@ -1,7 +1,7 @@
 # 🛡️ Detain Shield
 
 **Never miss your attendance goals again.**  
-Detain Shield is a browser extension designed to help MUJ students stay on top of their attendance requirements. It calculates and displays how many more classes you need to attend (or can afford to miss) to maintain the mandatory 75% attendance threshold.
+Detain Shield is a browser extension designed to help MUJ students stay on top of their attendance requirements. It calculates and displays how many more classes you need to attend (or can afford to miss) to maintain the mandatory 75% attendance threshold. You can now set custom attendance targets for each course!
 
 ---
 
@@ -10,6 +10,7 @@ Detain Shield is a browser extension designed to help MUJ students stay on top o
 - ✅ Shows required classes to attend  
 - 🛑 Calculates how many more you can miss  
 - 🖥️ Seamless integration with the MUJ SLCM portal
+- 💥 Custom target attendance for each course
 
 ---
 
@@ -53,6 +54,7 @@ Detain Shield is a browser extension designed to help MUJ students stay on top o
 3. Detain Shield will automatically display:
    - 📈 Classes you need to attend  
    - 🎉 Classes you can afford to skip
+   - 💥 Instructions on how to set a custom target attendance for each course
 
 ---
 

@@ -1,29 +1,54 @@
 # Privacy Policy for Detain Shield
 
-**Effective Date:** April 8, 2025
+**Effective Date: September 25, 2026**
 
-Detain Shield is a Chrome extension designed to enhance your browsing experience by processing HTML table data directly within your browser. We respect your privacy and are committed to being transparent about how the extension operates.
+Detain Shield is a Chrome extension designed to enhance your browsing experience by processing HTML table data directly within your browser. We are committed to protecting your privacy and maintaining transparency about how the extension handles data.
 
-## No Data Collection
+## 1. Data Collection
 
-We do not collect, store, or transmit any personal information or browsing data. All data processing is performed locally within your browser.
+Detain Shield does **not collect, transmit, or share any personal information, browsing history, or webpage data**.
 
-## How the Extension Works
+All data processing is performed locally within your browser. The extension does not send information to external servers, and the developer does not have access to the data processed by the extension.
 
-- The extension reads table data from the webpage you are currently viewing.  
-- It processes that data locally, using built-in logic.  
-- It then injects new columns into the same table to enhance the displayed information.
+## 2. Local Data Storage
 
-At no point is any data sent to external servers, nor is it accessible to the developer.
+Detain Shield stores attendance targets and related extension settings locally using Chrome's `chrome.storage.local` API.
 
-## Data Privacy and Security
+This information remains on your device and is not transmitted to or accessible by the developer.
 
-- No user data is collected or shared.  
-- No analytics or tracking tools are used.  
-- No third-party services are integrated.  
-- All data stays on your device and is never transmitted externally.
+## 3. How Detain Shield Works
 
-## Contact
+When you use Detain Shield:
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: [kedarparikh2016@gmail.com]
+* The extension reads relevant HTML table data from the webpage you are currently viewing.
+* The data is processed locally within your browser using the extension's built-in logic.
+* The extension may modify the webpage by injecting additional columns or information into the existing table.
+* No webpage data is transmitted to external servers or third-party services.
 
+The extension operates entirely within your browser for its intended functionality.
+
+## 4. Data Privacy and Security
+
+Detain Shield is designed with a privacy-first approach:
+
+* **No personal data is collected or transmitted.**
+* **No browsing data is collected or transmitted.**
+* **No webpage data is sent to external servers.**
+* **No analytics or tracking services are used on attendance information.**
+* **No third-party data-processing services are integrated.**
+* **Extension settings are stored locally on your device.**
+* **The developer does not have access to data processed by the extension.**
+
+## 5. Third-Party Services
+
+Detain Shield does not use third-party services, analytics platforms, advertising networks, or external APIs to collect or process user data.
+
+## 6. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time to reflect changes to the extension or its functionality. Any updates will be published alongside the extension and will include a revised effective date where applicable.
+
+## 7. Contact
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or the privacy practices of Detain Shield, please contact:
+
+**Email:** [kedarparikh@outlook.in](mailto:kedarparikh@outlook.in)
