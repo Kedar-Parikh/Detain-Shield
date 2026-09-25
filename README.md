@@ -54,7 +54,7 @@ Detain Shield is a browser extension designed to help MUJ students stay on top o
 3. Detain Shield will automatically display:
    - 📈 Classes you need to attend  
    - 🎉 Classes you can afford to skip
-   - 💥 Instructions on how to set a custom target attendance for each course
+   - 💥 Instructions on how to set a custom attendance target for each course
 
 ---
 
